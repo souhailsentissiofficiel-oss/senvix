@@ -17,10 +17,10 @@
 define('DB_DEBUG', false);
 
 // ── Your InfinityFree MySQL credentials ──────────────────────
-define('DB_HOST',    'localhost');   // from your panel screenshot
+define('DB_HOST',    'mysql.railway.internal');   // from your panel screenshot
 define('DB_NAME',    'senvix');  // PREFIX_databasename format
 define('DB_USER',    'root');              // your MySQL username
-define('DB_PASS',    'mamababa');              // your MySQL password (from panel)
+define('DB_PASS',    'IJFrOjcYaWiCJFOKjtqEnVgnzVpyGZeu');              // your MySQL password (from panel)
 define('DB_CHARSET', 'utf8mb4');
 define('DB_PORT',    3306);
 
